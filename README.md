@@ -1,6 +1,6 @@
 # FoodOrderApp
 React JS Basic Food Ordering App
-This is a small application that reflect core concept involving ReactJS. 
+This is a small application that is based core concept involving ReactJS. General layout and UI components. 
 
 In the app itself you can:
 1. See a menu.
